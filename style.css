@@ -3,7 +3,7 @@ html {
   scroll-behavior: smooth;
   /*scroll-padding: 5rem;
   scroll-padding: var(--scroll-pading, 5rem);*/
-  
+  background-color: #0c0c0c;
 }
 
 
